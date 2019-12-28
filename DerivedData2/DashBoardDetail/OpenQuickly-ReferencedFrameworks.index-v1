@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Foundation</string>
+	<string>SVPullToRefresh</string>
+	<string>CoreData</string>
+	<string>AppKit</string>
+	<string>CoreGraphics</string>
+	<string>QuartzCore</string>
+	<string>CCBottomRefreshControl</string>
+	<string>Security</string>
+	<string>SVProgressHUD</string>
+	<string>netinet6</string>
+	<string>SafariServices</string>
+	<string>CoreServices</string>
+	<string>UIKit</string>
+	<string>netinet</string>
+	<string>CoreLocation</string>
+	<string>SystemConfiguration</string>
+	<string>WatchKit</string>
+	<string>AFNetworking</string>
+	<string>UserNotifications</string>
+	<string>MobileCoreServices</string>
+	<string>Cocoa</string>
+	<string>arpa</string>
+	<string>objc</string>
+</array>
+</plist>
